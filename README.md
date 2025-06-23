@@ -22,15 +22,15 @@ A Society Management System built using Laravel and PHP. It helps manage residen
 ![Screenshot from 2025-04-04 15-14-02](https://github.com/user-attachments/assets/2a0dff6f-1f3d-4779-a090-d90d5a1fe869)&nbsp;
 ![Screenshot from 2025-04-04 15-14-11](https://github.com/user-attachments/assets/98e7d542-2a62-4168-ab2f-a23766c969cc)&nbsp;
 
-## User Panel
+## User Panel(Members Side)
 
-![Screenshot from 2025-04-03 14-46-05](https://github.com/user-attachments/assets/c4d199a2-3e6d-418c-b589-9d0636560d0c)
-![Screenshot from 2025-04-03 14-46-18](https://github.com/user-attachments/assets/792b823f-e0a4-43b9-8bd1-fddd2cb77d33)
-![Screenshot from 2025-04-03 14-51-23](https://github.com/user-attachments/assets/6f0637a0-20c1-4fa5-82a6-e88cc94e0156)
-![Screenshot from 2025-04-03 14-52-59](https://github.com/user-attachments/assets/afce0e89-c2f8-467f-9ee5-32ed6ffd12ef)
-![Screenshot from 2025-04-03 14-52-15](https://github.com/user-attachments/assets/934be357-0956-4584-b035-8e38d08c1883)
-![Screenshot from 2025-04-03 14-52-25](https://github.com/user-attachments/assets/4dcd9252-185f-43ce-88c0-5a797d9f0706)
-![Screenshot from 2025-04-03 14-52-38](https://github.com/user-attachments/assets/7b7a2d1c-7e82-4cd1-bf85-6566dc77297a)
+![Screenshot from 2025-04-03 14-46-05](https://github.com/user-attachments/assets/c4d199a2-3e6d-418c-b589-9d0636560d0c)&nbsp;
+![Screenshot from 2025-04-03 14-46-18](https://github.com/user-attachments/assets/792b823f-e0a4-43b9-8bd1-fddd2cb77d33)&nbsp;
+![Screenshot from 2025-04-03 14-51-23](https://github.com/user-attachments/assets/6f0637a0-20c1-4fa5-82a6-e88cc94e0156)&nbsp;
+![Screenshot from 2025-04-03 14-52-59](https://github.com/user-attachments/assets/afce0e89-c2f8-467f-9ee5-32ed6ffd12ef)&nbsp;
+![Screenshot from 2025-04-03 14-52-15](https://github.com/user-attachments/assets/934be357-0956-4584-b035-8e38d08c1883)&nbsp;
+![Screenshot from 2025-04-03 14-52-25](https://github.com/user-attachments/assets/4dcd9252-185f-43ce-88c0-5a797d9f0706)&nbsp;
+![Screenshot from 2025-04-03 14-52-38](https://github.com/user-attachments/assets/7b7a2d1c-7e82-4cd1-bf85-6566dc77297a)&nbsp;
 
 ## Laravel
 
