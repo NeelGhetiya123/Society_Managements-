@@ -5,7 +5,22 @@ A Society Management System built using Laravel and PHP. It helps manage residen
 ## Admin Panel
 
 ![Screenshot from 2025-04-04 15-09-44](https://github.com/user-attachments/assets/66f3912b-7c42-4c13-a9d4-54dd3ff94cc6)
-
+![Screenshot from 2025-04-04 15-14-11](https://github.com/user-attachments/assets/98e7d542-2a62-4168-ab2f-a23766c969cc)
+![Screenshot from 2025-04-04 15-14-02](https://github.com/user-attachments/assets/2a0dff6f-1f3d-4779-a090-d90d5a1fe869)
+![Screenshot from 2025-04-04 15-13-52](https://github.com/user-attachments/assets/ac7648e1-61cf-4e28-b456-29cab8a4bd5c)
+![Screenshot from 2025-04-04 15-13-42](https://github.com/user-attachments/assets/6ec528c5-9be0-4ad2-b897-e3f9b4c31581)
+![Screenshot from 2025-04-04 15-12-39](https://github.com/user-attachments/assets/9a4c45aa-9fb2-4ce5-8d02-2fe23a94c676)
+![Screenshot from 2025-04-04 15-12-27](https://github.com/user-attachments/assets/1d99e848-2dd3-43c8-8b8b-56f9c4c764af)
+![Screenshot from 2025-04-04 15-11-48](https://github.com/user-attachments/assets/e6047c7a-ca0a-4584-a7a7-19876d84b827)
+![Screenshot from 2025-04-04 15-11-24](https://github.com/user-attachments/assets/381de8fe-cbf7-42d4-8fe1-493aaecd70a2)
+![Screenshot from 2025-04-04 15-11-13](https://github.com/user-attachments/assets/374e03f9-8c56-4702-ac00-9364f546f279)
+![Screenshot from 2025-04-04 15-11-04](https://github.com/user-attachments/assets/59d9dc64-b51c-431c-9c19-bd2eceb9e576)
+![Screenshot from 2025-04-04 15-10-45](https://github.com/user-attachments/assets/cb015f98-3b35-41e3-baa9-080639d7dee5)
+![Screenshot from 2025-04-04 15-10-37](https://github.com/user-attachments/assets/677fc4b1-98c6-48c9-8b58-10bf6ad5728d)
+![Screenshot from 2025-04-04 15-10-26](https://github.com/user-attachments/assets/1dd71536-0d17-4216-b552-1c6b37317992)
+![Screenshot from 2025-04-04 15-10-17](https://github.com/user-attachments/assets/fafa6a56-3e47-4d8c-af91-ec73f3be5669)
+![Screenshot from 2025-04-04 15-10-08](https://github.com/user-attachments/assets/dfbfa0f1-85a9-4d35-a7f1-3c110b255428)
+![Screenshot from 2025-04-04 15-09-58](https://github.com/user-attachments/assets/402f7b52-9c73-4f7b-ae7b-595491679e56)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
