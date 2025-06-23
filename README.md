@@ -17,11 +17,22 @@ A Society Management System built using Laravel and PHP. It helps manage residen
 ![Screenshot from 2025-04-04 15-12-39](https://github.com/user-attachments/assets/9a4c45aa-9fb2-4ce5-8d02-2fe23a94c676)&nbsp;
 ![Screenshot from 2025-04-04 15-11-48](https://github.com/user-attachments/assets/e6047c7a-ca0a-4584-a7a7-19876d84b827)&nbsp;
 ![Screenshot from 2025-04-04 15-12-27](https://github.com/user-attachments/assets/1d99e848-2dd3-43c8-8b8b-56f9c4c764af)&nbsp;
-
 ![Screenshot from 2025-04-04 15-13-42](https://github.com/user-attachments/assets/6ec528c5-9be0-4ad2-b897-e3f9b4c31581)&nbsp;
 ![Screenshot from 2025-04-04 15-13-52](https://github.com/user-attachments/assets/ac7648e1-61cf-4e28-b456-29cab8a4bd5c)&nbsp;
 ![Screenshot from 2025-04-04 15-14-02](https://github.com/user-attachments/assets/2a0dff6f-1f3d-4779-a090-d90d5a1fe869)&nbsp;
 ![Screenshot from 2025-04-04 15-14-11](https://github.com/user-attachments/assets/98e7d542-2a62-4168-ab2f-a23766c969cc)&nbsp;
+
+## User Panel
+
+![Screenshot from 2025-04-03 14-46-05](https://github.com/user-attachments/assets/c4d199a2-3e6d-418c-b589-9d0636560d0c)
+![Screenshot from 2025-04-03 14-46-18](https://github.com/user-attachments/assets/792b823f-e0a4-43b9-8bd1-fddd2cb77d33)
+![Screenshot from 2025-04-03 14-51-23](https://github.com/user-attachments/assets/6f0637a0-20c1-4fa5-82a6-e88cc94e0156)
+![Screenshot from 2025-04-03 14-52-59](https://github.com/user-attachments/assets/afce0e89-c2f8-467f-9ee5-32ed6ffd12ef)
+![Screenshot from 2025-04-03 14-52-15](https://github.com/user-attachments/assets/934be357-0956-4584-b035-8e38d08c1883)
+![Screenshot from 2025-04-03 14-52-25](https://github.com/user-attachments/assets/4dcd9252-185f-43ce-88c0-5a797d9f0706)
+![Screenshot from 2025-04-03 14-52-38](https://github.com/user-attachments/assets/7b7a2d1c-7e82-4cd1-bf85-6566dc77297a)
+
+## Laravel
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
