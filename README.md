@@ -4,6 +4,9 @@ A Society Management System built using Laravel and PHP. It helps manage residen
 
 ## Admin Panel
 
+![Screenshot from 2025-04-04 15-09-44](https://github.com/user-attachments/assets/66f3912b-7c42-4c13-a9d4-54dd3ff94cc6)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
