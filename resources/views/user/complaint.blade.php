@@ -97,7 +97,7 @@
                             <td>{{ $complaint->flatNo }}</td>
                             <td>
                                 <div class="form-group">
-                                    <textarea id="complaint" name="complaint"
+                                    <textarea readonly id="complaint" name="complaint"
                                         class="form-control">{{ $complaint->complaint }}
                                     </textarea>
                                 </div>

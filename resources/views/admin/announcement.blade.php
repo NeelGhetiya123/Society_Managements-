@@ -67,7 +67,7 @@
                             <td>{{ \Carbon\Carbon::parse($announcement->eventDate)->format('j F, Y h:i A') }}</td>
                             <td>
                                 <div class="form-group">
-                                    <textarea id="title" name="title"
+                                    <textarea readonly id="title" name="title"
                                         class="form-control">{{ $announcement->title }}
                                     </textarea>
                                 </div>
