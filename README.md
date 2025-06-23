@@ -5,7 +5,9 @@ A Society Management System built using Laravel and PHP. It helps manage residen
 ## Admin Panel
 
 ![Screenshot from 2025-04-04 15-09-44](https://github.com/user-attachments/assets/66f3912b-7c42-4c13-a9d4-54dd3ff94cc6)
+
 ![Screenshot from 2025-04-04 15-14-11](https://github.com/user-attachments/assets/98e7d542-2a62-4168-ab2f-a23766c969cc)
+
 ![Screenshot from 2025-04-04 15-14-02](https://github.com/user-attachments/assets/2a0dff6f-1f3d-4779-a090-d90d5a1fe869)
 ![Screenshot from 2025-04-04 15-13-52](https://github.com/user-attachments/assets/ac7648e1-61cf-4e28-b456-29cab8a4bd5c)
 ![Screenshot from 2025-04-04 15-13-42](https://github.com/user-attachments/assets/6ec528c5-9be0-4ad2-b897-e3f9b4c31581)
